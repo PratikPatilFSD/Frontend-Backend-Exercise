@@ -1,4 +1,4 @@
-# SchoolCoreOS – Full Stack Application
+# SchoolCoreOS – Frontend-Backend Exercise
 
 ## Overview
 
@@ -46,7 +46,7 @@ It provides:
 ### 1. Go to backend folder
 
 ```
-cd roles-institutes-api
+cd backend
 ```
 
 ### 2. Install dependencies
